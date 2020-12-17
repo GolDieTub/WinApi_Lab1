@@ -1,0 +1,4 @@
+﻿  WindAPI_lab1.cpp
+D:\Работы\ОСИСП\WindAPI_lab1\WindAPI_lab1\WindAPI_lab1.cpp(300,25): warning C4244: аргумент: преобразование "LONG" в "Gdiplus::REAL", возможна потеря данных
+D:\Работы\ОСИСП\WindAPI_lab1\WindAPI_lab1\WindAPI_lab1.cpp(300,20): warning C4244: аргумент: преобразование "LONG" в "Gdiplus::REAL", возможна потеря данных
+  WindAPI_lab1.vcxproj -> D:\Работы\ОСИСП\WindAPI_lab1\x64\Debug\WindAPI_lab1.exe
